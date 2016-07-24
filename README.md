@@ -8,7 +8,11 @@
 * Flask (for `quotecard.py`)
 * Python Imaging Library (PIL or Pillow)
 * Font Files
-** SuecaSlab Light
-** SuecaSlab Heavy
-** SuecaSlab Semibold
-** Big Moore
+
+ * SuecaSlab Light
+
+ * SuecaSlab Heavy
+
+ * SuecaSlab Semibold
+
+ * Big Moore
